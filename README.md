@@ -25,7 +25,7 @@
 ### 安装步骤
 
 1. 克隆此仓库
-git clone https://github.com/yourusername/autogen-web-summarizer.git cd autogen-web-summarizer
+git clone https://https://github.com/Wxysnx/AutoGenAgent.git cd AutoGenAgent
 
 
 2. 安装依赖
